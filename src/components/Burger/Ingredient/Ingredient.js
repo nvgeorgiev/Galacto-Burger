@@ -17,17 +17,17 @@ const ingredient = (props) => {
     case 'bread-bottom':
       burgerIngredient = <div className="BreadBottom"></div>;
       break;
-    case 'meat':
-      burgerIngredient = <div className="Meat"></div>;
-      break;
-    case 'cheese':
-      burgerIngredient = <div className="Cheese"></div>;
-      break;
     case 'salad':
       burgerIngredient = <div className="Salad"></div>;
       break;
     case 'bacon':
       burgerIngredient = <div className="Bacon"></div>;
+      break;
+    case 'cheese':
+      burgerIngredient = <div className="Cheese"></div>;
+      break;
+    case 'meat':
+      burgerIngredient = <div className="Meat"></div>;
       break;
     default:
       burgerIngredient = null;
