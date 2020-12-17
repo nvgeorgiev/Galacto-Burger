@@ -1,4 +1,4 @@
-# Galacto Burger
+# Galacto Burger (Under Development)
 
 Galacto Burger is a web restaurant for the most delicious custom burgers created by our users according to their tastes.
 
