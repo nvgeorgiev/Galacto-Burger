@@ -19,6 +19,10 @@ Galacto Burger is a single-page application build using React and JSX. For a dat
 
 - To look at the code, just open up the project in your favorite code editor!
 
-## Demo
+## Desktop Demo
 
-![Galacto Burger Demo](/src/assets/project-demo-video/project-demo-video.gif)
+![Galacto Burger Desktop Demo](/src/assets/project-demos/project-demo-desktop.gif)
+
+## Mobile Demo
+
+![Galacto Burger Mobile Demo](/src/assets/project-demos/project-demo-video.gif)
