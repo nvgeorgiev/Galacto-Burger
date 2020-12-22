@@ -1,10 +1,10 @@
 # Galacto Burger (Under Development)
 
-Galacto Burger is a web restaurant for the most delicious custom burgers created by our users according to their tastes.
+Galacto Burger is a web restaurant for ordering custom burgers. There you can create a burger with whatever ingredients you desire and order it to your doorstep.
 
 ## Under the hood
 
-Galacto Burger is a single-page application built using React and JSX. For a database Galacto Burger uses Firebase and for handling HTTP requests and responses - Axios. The App uses React Router to navigate through it's URLs.
+This project is a single-page application built using React. For data storage Galacto Burger uses Firebase and for handling HTTP requests and responses - Axios. The app also uses React Router to navigate through it's URLs.
 
 ## Installation
 
