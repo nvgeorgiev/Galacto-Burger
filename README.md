@@ -19,10 +19,10 @@ This project is a single-page application built using React. For data storage Ga
 
 - To look at the code, just open up the project in your favorite code editor.
 
-## Desktop Demo
-
-![Galacto Burger Desktop Demo](/src/assets/project-demos/project-demo-desktop.gif)
-
 ## Responsive Demo
 
 ![Galacto Burger Responsive Demo](/src/assets/project-demos/project-demo-responsive.gif)
+
+## Desktop Demo
+
+![Galacto Burger Desktop Demo](/src/assets/project-demos/project-demo-desktop.gif)
